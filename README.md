@@ -4,20 +4,20 @@ Desarrollador Front-end apasionado por construir experiencias web limpias y acce
 
 ## Mis últimos proyectos:
 
-- [Mi Portafolio Persona]. https://www.bernardorecamales.com/
-- [Proyecto] https://github.com/RecamalesDeveloper/sistema_clientes
+## 🚀 Proyectos Destacados:
+- 🌐 [Mi Portafolio Web](https://bernardorecamales.com) – HTML, CSS, JS
+- 🔄 Conversor de millas a kilómetros – Proyecto práctico Front-end (HTML, CSS, JS)
 
-## Tecnologías y Herramientas:
-
+## 💻 Tecnologías Principales:
 - HTML5
-- CSS3
-- JavaScript
+- CSS3 (Flexbox, Grid, Responsive)
+- JavaScript (básico y en continuo aprendizaje)
 - Git & GitHub
 - Render para despliegue web
-- Python basico
 
-## Contacto
+## 📫 Contacto:
 
 - [LinkedIn] https://www.linkedin.com/in/bernardo-recamales-guti%C3%A9rrez-13b87a2a1/
 - Correo electrónico: Bernardorecamalesgt@gmail.com
 
+Estoy abierto a oportunidades laborales y colaboraciones.
