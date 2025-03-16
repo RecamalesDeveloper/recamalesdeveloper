@@ -4,8 +4,8 @@ Desarrollador Front-end apasionado por construir experiencias web limpias y acce
 
 ## Mis últimos proyectos:
 
-- [Mi Portafolio Personal] https://www.bernardorecamales.com/
-- [Proyecto adicional que tengas](link directo)
+- [Mi Portafolio Persona]. https://www.bernardorecamales.com/
+- [Proyecto] https://github.com/RecamalesDeveloper/sistema_clientes
 
 ## Tecnologías y Herramientas:
 
